@@ -1,0 +1,148 @@
+*{
+    box-sizing: border-box;
+}
+
+html {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-color: darkslategrey;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+h3 {
+    text-decoration: underline;
+    font-size: 30px;
+}
+
+li {
+    color: rgb(55, 204, 204);
+
+}
+
+section {
+    display: inline-block;
+    border: 1px solid black;
+    margin: 8px;
+    padding: 20px;
+    width: 32%;
+    float: left;
+}
+
+
+
+.colorpal{
+    display: inline-block;
+    font-size: 40px;
+    margin: 10px auto;
+}
+/*color pallete*/
+.darkseagreen {
+    background-color: darkseagreen;
+}
+
+.teal {
+    background-color: teal;
+}
+
+.peru {
+    background-color: peru;
+}
+
+.aquamarine {
+    background-color: aquamarine;
+}
+
+.lavender {
+    background-color: lavender;
+
+}
+
+.typeface {
+    color: white;
+}
+
+.typeface p {
+    font-size: 20px;
+}
+
+.regular {
+    font-style: normal;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.merriweather {
+    font-family: 'Merriweather', serif;
+}
+
+.lora {
+    font-family: 'Lora', serif;
+}
+
+.roboto-condensed {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+h2 {
+    color: aliceblue;
+}
+
+.heading {
+     font-family: 'Merriweather', serif;
+}
+
+.heading h1 {
+    color: aliceblue;
+    font-weight: 700;
+    font-size: 32px;
+}
+
+.heading li {
+    font-size: 18px;
+    text-decoration: none;
+    display: block;
+    text-align: justify;
+}
+
+.sub {
+ 
+    font-family: Lora;
+}
+
+.sub h2 {
+    font-size: 24px;
+    text-decoration: none;
+    font-weight: 400;
+
+}
+
+.sub li {
+    display: block;
+    font-size: 18px;
+    text-align: justify;
+}
+
+.para {
+    font-family: 'Roboto Condensed', sans-serif;    
+}
+
+.para h2 {
+    font-weight: 300;
+    font-size: 20px;
+}
+
+.para li {
+    display: block;
+    font-size: 18px;
+    text-align: justify;
+}
+
